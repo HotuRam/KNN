@@ -13,10 +13,18 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 # - Insights of code
 
 <br />
 <br />
+<br />
+<br />
  <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/images/code.gif?raw=true" width="450" height="300" />
+ <br />
+<br />
+<br />
+<br />
 # References-
 gif making form -https://hnet.com/video-to-gif/
