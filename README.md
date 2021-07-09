@@ -28,8 +28,9 @@
 <br />
 
 ![Screenshot](code.gif)
- <!-- <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/images/code.gif?raw=true" width="600" height="400" /> -->
- <br />
+
+
+<br />
 <br />
 <br />
 <br />
