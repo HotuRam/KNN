@@ -1,7 +1,7 @@
 # KNN
  ### - Here we can download data
 <!-- ![Screenshot](pic.png) -->
- <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/pic.png?raw=true" width="600" height="400" />
+ <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/pic.png?raw=true" width="600" height="350" />
 <br />
 <br />
 <br />
