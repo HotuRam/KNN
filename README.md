@@ -23,8 +23,7 @@
 
 #  - Insights of code
 
-<br />
-<br />
+
 <br />
 <br />
 <br />
@@ -50,5 +49,7 @@
 <br />
 <br />
 <br />
+
 # References-
+
 gif making form -https://hnet.com/video-to-gif/
