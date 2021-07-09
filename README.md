@@ -1,5 +1,5 @@
 # KNN
- ## - Here we can download data
+ ### - Here we can download data
 <br />
  <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/images/data%20pic.png?raw=true" width="600" height="400" />
 <br />
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-#  - Insights of code
+###  - Insights of code
 <br />
 <br />
  <img align="left" alt="GIF" src="https://github.com/HotuRam/KNN/blob/main/images/code.gif?raw=true" width="600" height="400" />
@@ -42,6 +42,6 @@
 <br />
 <br />
 
-# References-
+## References-
 
 gif making form -https://hnet.com/video-to-gif/
